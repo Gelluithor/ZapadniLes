@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @ZapadniLes
 - 👀 I’m interested in Linux and programming
 - 🌱 I’m currently learning C++, Python, Rust
 - 🇨🇿
